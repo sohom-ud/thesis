@@ -1,6 +1,6 @@
 {
   "vaultName": "thesis-digital-garden",
-  "lastExport": 1721164372884,
+  "lastExport": 1721164613763,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon theme-violette toggle-note-animation toggle-scrollbar-overlay toggle-side-ribbons toggle-explorer-buttons toggle-explorer-indent toggle-explorer-collapse toggle-scrollbar THT-underline-dark toggle-h1-margin-top rainbow-repeat-11 rainbow-color-1-rosewater rainbow-color-2-rosewater rainbow-color-3-rosewater rainbow-color-4-rosewater rainbow-color-5-rosewater rainbow-color-6-rosewater rainbow-color-7-rosewater rainbow-color-8-rosewater rainbow-color-9-rosewater rainbow-color-10-rosewater rainbow-color-11-rosewater ctp-notion-light ctp-nord-dark",
   "useCustomHeadContent": false,
@@ -70,6 +70,7 @@
     "index.md",
     "Pasted image 20240511230716.png",
     "Untitled.canvas",
+    "lib/media/pasted-image-20240511230716.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -122,8 +123,7 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css",
-    "lib/media/pasted-image-20240511230716.png"
+    "lib/styles/snippets.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -182,7 +182,7 @@
   ],
   "fileInfo": {
     "1 - Introduction/1.1. The structure of the Sun.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1170,
       "exportedPath": "1-introduction/1.1.-the-structure-of-the-sun.html",
       "dependencies": [
@@ -190,703 +190,703 @@
       ]
     },
     "1 - Introduction/1.2. The solar wind.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1072,
       "exportedPath": "1-introduction/1.2.-the-solar-wind.html",
       "dependencies": []
     },
     "1 - Introduction/1.3. A brief history of the discovery of the solar wind.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 2404,
       "exportedPath": "1-introduction/1.3.-a-brief-history-of-the-discovery-of-the-solar-wind.html",
       "dependencies": []
     },
     "1 - Introduction/Bow shock.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "1-introduction/bow-shock.html",
       "dependencies": []
     },
     "1 - Introduction/Chromosphere.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/chromosphere.html",
       "dependencies": []
     },
     "1 - Introduction/Convection zone.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/convection-zone.html",
       "dependencies": []
     },
     "1 - Introduction/Core of the Sun.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/core-of-the-sun.html",
       "dependencies": []
     },
     "1 - Introduction/Corona.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/corona.html",
       "dependencies": []
     },
     "1 - Introduction/Coronal heating problem.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/coronal-heating-problem.html",
       "dependencies": []
     },
     "1 - Introduction/Interaction of the solar wind with the Earth's magnetosphere.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 160,
       "exportedPath": "1-introduction/interaction-of-the-solar-wind-with-the-earth's-magnetosphere.html",
       "dependencies": []
     },
     "1 - Introduction/Kolmogorov-like spectrum of magnetic field.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 80,
       "exportedPath": "1-introduction/kolmogorov-like-spectrum-of-magnetic-field.html",
       "dependencies": []
     },
     "1 - Introduction/Magnetosheath.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/magnetosheath.html",
       "dependencies": []
     },
     "1 - Introduction/Models of the solar corona.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 258,
       "exportedPath": "1-introduction/models-of-the-solar-corona.html",
       "dependencies": []
     },
     "1 - Introduction/Photosphere.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/photosphere.html",
       "dependencies": []
     },
     "1 - Introduction/Proton-proton cycle.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/proton-proton-cycle.html",
       "dependencies": []
     },
     "1 - Introduction/Radiation zone.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/radiation-zone.html",
       "dependencies": []
     },
     "1 - Introduction/Resources.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 553,
       "exportedPath": "1-introduction/resources.html",
       "dependencies": []
     },
     "1 - Introduction/Transition region.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "1-introduction/transition-region.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/2.1. Reynolds decomposition.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/2.1.-reynolds-decomposition.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/2.2. Correlation function.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/2.2.-correlation-function.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/2.4. Kolmogorov's theory of turbulence.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 45,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/2.4.-kolmogorov's-theory-of-turbulence.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/2.5. Iroshnikov-Kraichnan spectrum.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/2.5.-iroshnikov-kraichnan-spectrum.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/2.5. Taylor hypothesis.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/2.5.-taylor-hypothesis.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/Elsasser variables.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 167,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/elsasser-variables.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/Resources.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1719,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/resources.html",
       "dependencies": []
     },
     "2 - Basic concepts in hydrodynamic  and magnetohydrodynamic turbulence/Structure function.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "2-basic-concepts-in-hydrodynamic-and-magnetohydrodynamic-turbulence/structure-function.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/Boltzmann equation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 205,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/boltzmann-equation.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/Important timescales.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 67,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/important-timescales.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/Ion-acoustic waves.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/ion-acoustic-waves.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/MHD equations.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/mhd-equations.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/MHD waves.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 37,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/mhd-waves.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/Moments of the Vlasov equation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 58,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/moments-of-the-vlasov-equation.html",
       "dependencies": []
     },
     "3 - Basic concepts in plasma physics and magnetohydrodynamics/Vlasov equation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "3-basic-concepts-in-plasma-physics-and-magnetohydrodynamics/vlasov-equation.html",
       "dependencies": []
     },
     "4 - von Karman similarity hypothesis in the solar wind/4.1. The von Karman-Howarth equation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "4-von-karman-similarity-hypothesis-in-the-solar-wind/4.1.-the-von-karman-howarth-equation.html",
       "dependencies": []
     },
     "4 - von Karman similarity hypothesis in the solar wind/Self-preservation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 97,
       "exportedPath": "4-von-karman-similarity-hypothesis-in-the-solar-wind/self-preservation.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.0. Introduction.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 75,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.0.-introduction.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.1. The role of pressure-strain interaction in dissipation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.1.-the-role-of-pressure-strain-interaction-in-dissipation.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.2. Energy injection and MHD-scale cascade.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.2.-energy-injection-and-mhd-scale-cascade.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.3. MHD-scale energy transfer drives dissipation.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.3.-mhd-scale-energy-transfer-drives-dissipation.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.4. Ion versus electron heating.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.4.-ion-versus-electron-heating.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.5. Partitioning of heating and timescales.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.5.-partitioning-of-heating-and-timescales.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.6. Variation of relative heating rates with plasma beta.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.6.-variation-of-relative-heating-rates-with-plasma-beta.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/5.7. Total variation of relative heating rates.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/5.7.-total-variation-of-relative-heating-rates.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Chapman-Enskog expansion.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/chapman-enskog-expansion.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Heating by kinetic instabilities.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/heating-by-kinetic-instabilities.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Landau damping.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/landau-damping.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Magnetic pumping.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/magnetic-pumping.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Theory of stochastic heating.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 38,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/theory-of-stochastic-heating.html",
       "dependencies": []
     },
     "5 - Turbulent energy transfer and proton-electron heating in collisionless plasmas/Transit-time resonance.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "5-turbulent-energy-transfer-and-proton-electron-heating-in-collisionless-plasmas/transit-time-resonance.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/6.1. Magnetic reconnection.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 160,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/6.1.-magnetic-reconnection.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/6.2. Structure of the dissipation region in collisionless reconnection.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/6.2.-structure-of-the-dissipation-region-in-collisionless-reconnection.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/6.3. Electron-only reconnection.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/6.3.-electron-only-reconnection.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/6.4. Relation between relative heating rates and the simulation box size.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/6.4.-relation-between-relative-heating-rates-and-the-simulation-box-size.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/6.5. Relation between pressure-strain interaction and curvature.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 26,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/6.5.-relation-between-pressure-strain-interaction-and-curvature.html",
       "dependencies": []
     },
     "6 - Energy dissipation in electron-only reconnection/Papers.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1603,
       "exportedPath": "6-energy-dissipation-in-electron-only-reconnection/papers.html",
       "dependencies": []
     },
     "7 - Scale dependence of energy transfer in collisionless plasmas/7.1. Scale-filtered energy equations.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 34,
       "exportedPath": "7-scale-dependence-of-energy-transfer-in-collisionless-plasmas/7.1.-scale-filtered-energy-equations.html",
       "dependencies": []
     },
     "7 - Scale dependence of energy transfer in collisionless plasmas/7.2. Reconnection.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "7-scale-dependence-of-energy-transfer-in-collisionless-plasmas/7.2.-reconnection.html",
       "dependencies": []
     },
     "7 - Scale dependence of energy transfer in collisionless plasmas/7.3. Turbulence.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "7-scale-dependence-of-energy-transfer-in-collisionless-plasmas/7.3.-turbulence.html",
       "dependencies": []
     },
     "8 - Future work/8.1. Understanding importance of the transport terms.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "8-future-work/8.1.-understanding-importance-of-the-transport-terms.html",
       "dependencies": []
     },
     "8 - Future work/8.2. Relation between the cross-scale energy transfer and the filtered strain rates.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 25,
       "exportedPath": "8-future-work/8.2.-relation-between-the-cross-scale-energy-transfer-and-the-filtered-strain-rates.html",
       "dependencies": []
     },
     "8 - Future work/Untitled.md": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 0,
       "exportedPath": "8-future-work/untitled.html",
       "dependencies": []
     },
     "Pasted image 20240511230716.png": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 446790,
       "exportedPath": "pasted-image-20240511230716.png",
       "dependencies": []
     },
     "Untitled.canvas": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 2,
       "exportedPath": "untitled.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240511230716.png": {
-      "modifiedTime": 1720822468953,
+      "modifiedTime": 1721164613763,
       "sourceSize": 446790,
       "exportedPath": "lib/media/pasted-image-20240511230716.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 31405,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 7705,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 66982,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 319653,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1721164372884,
+      "modifiedTime": 1721164613763,
       "sourceSize": 584,
       "exportedPath": "index.html",
       "dependencies": []
